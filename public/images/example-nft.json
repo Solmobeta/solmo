@@ -1,0 +1,24 @@
+{
+  "name": "Space Explorer #001",
+  "description": "An explorer from the digital galaxy, searching for rare blockchain wonders.",
+  "image": "https://arweave.net/QmNLr4G7XUAK6ykG4janpvB2MLnwyVmZKPaM5sxTpHG8zz",
+  "external_url": "https://solmo.co/nft/1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Space"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Equipment",
+      "value": "Spacesuit"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+} 
